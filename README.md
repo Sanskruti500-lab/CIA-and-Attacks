@@ -1,96 +1,104 @@
 # CIA-and-Attacks
 CIA Triad is a basic model which means basic used in cyber security protect our information like  data,bankdetalis personal information,our files kept secret.the fullform of CIA is Confidentiality integrity availability attack attackers means How to attackers attack to our data Attack Surface means Where attackers attack like human attack surface
-🛡️ CIA Triad (Security Procedure)
-
 The CIA Triad is a security model used to design, implement, and evaluate cyber security systems.
+🛡️ What is CIA in Cyber Security?
+CIA is a basic rule used in cyber security to keep information safe.
+CIA stands for:
 
-🔐 1. Confidentiality
+🔐 C – Confidentiality
 
-Confidentiality ensures that only authorized users can access information.
+Confidentiality means keeping information secret.
 
-Procedure / Methods:
-	•	User authentication (passwords, biometrics)
+➡️ Only the right people can see the data.
+
+Example:
+Your ATM PIN, password, and private messages.
+
+How we protect it:
+	•	Passwords
+	•	Lock screens
 	•	Encryption
-	•	Access control lists
-	•	Role-based access
 
-Threats & Attacks:
-	•	Phishing
-	•	Password attacks
-	•	Spyware
-	•	Data leakage
+Attacks on Confidentiality:
+	•	Phishing emails
+	•	Password stealing
+	•	Hacking accounts
 
 ⸻
 
-✏️ 2. Integrity
+✏️ I – Integrity
 
-Integrity ensures that data remains accurate and unchanged during storage or transmission.
+Integrity means information should be correct and not changed.
 
-Procedure / Methods:
-	•	Hashing algorithms
+➡️ Data must stay original.
+
+Example:
+Marks in college records should not be changed.
+
+How we protect it:
 	•	Digital signatures
-	•	Checksums
-	•	Audit logs
+	•	Hashing
+	•	Permissions
 
-Threats & Attacks:
-	•	Data tampering
-	•	Man-in-the-Middle attack
+Attacks on Integrity:
+	•	Data modification
 	•	SQL injection
-	•	Malware modification
+	•	Virus attack
 
 ⸻
 
-⚙️ 3. Availability
+⚙️ A – Availability
 
-Availability ensures that systems and data are accessible whenever required.
+Availability means information should be available when needed.
 
-Procedure / Methods:
-	•	Regular backups
-	•	Firewalls
-	•	Load balancing
-	•	Disaster recovery planning
+➡️ Systems should work all the time.
 
-Threats & Attacks:
-	•	DoS / DDoS attacks
+Example:
+Bank website should work 24/7.
+
+How we protect it:
+	•	Backup
+	•	Firewall
+	•	Good internet servers
+
+Attacks on Availability:
+	•	DoS / DDoS attack
 	•	Ransomware
-	•	Hardware failure
-	•	Power outages
-	1. Phishing Attack
+	•	Server crash
+	🔥 Types of Cyber Attacks
 
-Fake emails or websites trick users into revealing sensitive data.
+1️⃣ Phishing
 
-2. Malware Attack
+Fake emails or messages that steal passwords.
 
-Malicious software such as viruses, worms, trojans, and ransomware damage systems.
+2️⃣ Malware
 
-3. DoS / DDoS Attack
+Bad software that harms computers (virus, trojan).
 
-Attackers overload servers with traffic, making services unavailable.
+3️⃣ DDoS Attack
 
-4. Man-in-the-Middle (MITM)
+Too much traffic is sent to a website to stop it.
 
-Attackers secretly intercept and alter communication between two parties.
+4️⃣ Hacking
 
-5. SQL Injection
-
-Malicious SQL commands are injected to access or manipulate databases.
-
-6. Brute Force Attack
-
-Repeated attempts are made to guess passwords.
+Breaking into accounts or systems without permission.
 
 ⸻
 
-🧩 Relationship Between CIA & Attacks
-	•	Confidentiality attacks → Data theft
-	•	Integrity attacks → Data manipulation
-	•	Availability attacks → Service disruption
-
-Understanding this relationship helps security professionals detect threats early and design stronger defenses.
+🧠 Why CIA is Important?
+	•	Keeps data safe
+	•	Protects users
+	•	Stops cyber crimes
+	•	Very important for students and companies
 
 ⸻
 
 🏁 Conclusion
 
-A strong cyber security foundation begins with understanding the CIA Triad and recognizing attack types. By applying confidentiality, integrity, and availability procedures, organizations can protect data, prevent cyber threats, and ensure system trustworthiness.
+CIA helps protect information and cyber attacks try to break it.
+Understanding CIA and attacks helps us stay safe online.
+
+
+
+
 
