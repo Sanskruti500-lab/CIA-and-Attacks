@@ -55,3 +55,42 @@ Threats & Attacks:
 	•	Ransomware
 	•	Hardware failure
 	•	Power outages
+	1. Phishing Attack
+
+Fake emails or websites trick users into revealing sensitive data.
+
+2. Malware Attack
+
+Malicious software such as viruses, worms, trojans, and ransomware damage systems.
+
+3. DoS / DDoS Attack
+
+Attackers overload servers with traffic, making services unavailable.
+
+4. Man-in-the-Middle (MITM)
+
+Attackers secretly intercept and alter communication between two parties.
+
+5. SQL Injection
+
+Malicious SQL commands are injected to access or manipulate databases.
+
+6. Brute Force Attack
+
+Repeated attempts are made to guess passwords.
+
+⸻
+
+🧩 Relationship Between CIA & Attacks
+	•	Confidentiality attacks → Data theft
+	•	Integrity attacks → Data manipulation
+	•	Availability attacks → Service disruption
+
+Understanding this relationship helps security professionals detect threats early and design stronger defenses.
+
+⸻
+
+🏁 Conclusion
+
+A strong cyber security foundation begins with understanding the CIA Triad and recognizing attack types. By applying confidentiality, integrity, and availability procedures, organizations can protect data, prevent cyber threats, and ensure system trustworthiness.
+
